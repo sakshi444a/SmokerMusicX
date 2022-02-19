@@ -16,7 +16,7 @@ async def start_(client: Client, message: Message):
 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 :- [✨ 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐨𝐫 𝐗 🚬 💜](https://t.me/About_Parth2)
 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :- [✨ 𝐗𝐌𝐄𝐍 𝐓𝐄𝐀𝐌 ❤️🎸](https://t.me/TheJerryNetwork)
 𝐃𝐢𝐬𝐜𝐮𝐬𝐬 :- [✨  𝐉𝐞𝐫𝐫𝐲 𝐜𝐥𝐚𝐧 🎧](https://t.me/The_Xmenteam)
-𝐒𝐨𝐮𝐫𝐜𝐞  :- [✨  𝗖𝗹𝗶𝗰𝗸 ☑️ 𝗥𝗲𝗽𝗼 🌍]()
+𝐒𝐨𝐮𝐫𝐜𝐞  :- [✨  𝗖𝗹𝗶𝗰𝗸 ☑️ 𝗥𝗲𝗽𝗼 🌍](https://github.com/Parth651-45/SmokerMusicX)
 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 :- [✨𝗖𝗹𝗶𝗰𝗸 ☑️ 𝗡𝗼𝘄 🚩](https://telegra.ph/%EA%9C%B1%E1%B4%8D%E1%B4%8F%E1%B4%8B%E1%B4%87%CA%80-%E1%B4%8D%E1%B4%9C%EA%9C%B1%C9%AA%E1%B4%84-%CA%99%E1%B4%8F%E1%B4%9B-%E1%B4%84%E1%B4%8F%E1%B4%8D%E1%B4%8D%E1%B4%80%C9%B4%E1%B4%85%EA%9C%B1-08-29)
 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 :- [✨ 𝗝𝗼𝗶𝗻 ❤️🥀](https://t.me/About_Parth2)
 
@@ -44,7 +44,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💥 Cʟɪᴄᴋ Mᴇ Tᴏ Gᴇᴛ Rᴇᴘᴏ 💞", url=f"https://github.com/EsportMusicX/SmokerMusicX")
+                        "💥 Cʟɪᴄᴋ Mᴇ Tᴏ Gᴇᴛ Rᴇᴘᴏ 💞", url=f"https://github.com/Parth651-45/SmokerMusicX")
                 ]
             ]
         ),
