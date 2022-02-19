@@ -3,7 +3,7 @@
 ### Best Smart Voice Chat Music Robot For Telegram Groups ...
 
 
-<p align="center"><a href="https://t.me/sanki_owner"><img src="https://te.legra.ph/file/cb120c72f464ff25025a3.jpg"></a></p>
+<p align="center"><a href="https://t.me/sanki_owner"><img src="https://te.legra.ph/file/fdb0297bdd25b31e360bb.jpg"></a></p>
 
 
 # ʜᴇʀoᴋᴜ ᴅᴇᴘʟᴏʏ
